@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Sunny Day",
+    "artist": "Lo-Fi Beats",
+    "year": 2022,
+    "genre": "Chill",
+    "filePath": "src/main/resources/audio/553152571.mp3"
+  },
+  {
+    "title": "Ocean Drive",
+    "artist": "DJ Waves",
+    "year": 2021,
+    "genre": "Electronic",
+    "filePath": "audio/ocean_drive.mp3"
+  },
+  {
+    "title": "Midnight Jazz",
+    "artist": "Blue Note",
+    "year": 2020,
+    "genre": "Jazz",
+    "filePath": "audio/midnight_jazz.mp3"
+  },
+  {
+    "title": "Free to Use for Anything",
+    "artist": "Ketsa",
+    "year": 2016,
+    "genre": "Instrumental / Chill",
+    "filePath": "audio/free_to_use_for_anything.mp3"
+  },
+  {
+    "title": "Night Owl",
+    "artist": "Broke For Free",
+    "year": 2013,
+    "genre": "ChillHop / Lo-Fi",
+    "filePath": "audio/night_owl.mp3"
+  },
+  {
+    "title": "Future Life",
+    "artist": "Scott Holmes Music",
+    "year": 2015,
+    "genre": "Ambient / Cinematic",
+    "filePath": "audio/future_life.mp3"
+  },
+  {
+    "title": "Sound of Sun",
+    "artist": "Scott Holmes Music",
+    "year": 2014,
+    "genre": "Ambient / Chill",
+    "filePath": "audio/sound_of_sun.mp3"
+  },
+  {
+    "title": "Macrocosm",
+    "artist": "Scott Buckley",
+    "year": 2018,
+    "genre": "Electronic / Space",
+    "filePath": "audio/macrocosm.mp3"
+  },
+  {
+    "title": "Deep Blue",
+    "artist": "Podington Bear",
+    "year": 2012,
+    "genre": "Instrumental / Jazz",
+    "filePath": "audio/deep_blue.mp3"
+  },
+  {
+    "title": "Hopeful",
+    "artist": "Scott Holmes Music",
+    "year": 2013,
+    "genre": "Inspirational / Chill",
+    "filePath": "audio/hopeful.mp3"
+  }
+]
