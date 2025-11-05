@@ -1,4 +1,6 @@
 com/spotifylikeapp/Song.class
+com/spotifylikeapp/SpotifyGUI.class
 com/spotifylikeapp/App.class
-com/spotifylikeapp/MusicPlayer.class
 com/spotifylikeapp/App$1.class
+com/spotifylikeapp/SpotifyGUI$1.class
+com/spotifylikeapp/MusicPlayer.class

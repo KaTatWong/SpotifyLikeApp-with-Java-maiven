@@ -1,5 +1,8 @@
 package com.spotifylikeapp;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Song {
     private String title;
     private String artist;
@@ -7,6 +10,7 @@ public class Song {
     private String genre;
     private String filePath;
     private boolean isFavorite; // NEW FIELD
+    private List<String> comments;
 
     public Song(String title, String artist, int year, String genre, String filePath, boolean isFavorite) {
         this.title = title;
@@ -15,6 +19,7 @@ public class Song {
         this.genre = genre;
         this.filePath = filePath;
         this.isFavorite = isFavorite;
+        this.comments = new ArrayList<>();
     }
 
     // Add a simpler constructor for backward compatibility
@@ -48,6 +53,14 @@ public class Song {
 
     public void toggleFavorite() {
         this.isFavorite = !this.isFavorite;
+    }
+
+    public List<String> getComments() {
+        return comments;
+    }
+
+    public void addComment(String comment) {
+        this.comments.add(comment);
     }
 
     @Override
